@@ -1,0 +1,107 @@
+@import url("primevue/resources/themes/aura-light-green/theme.css");
+@import url("swiper/css");
+@import url("swiper/css/pagination");
+@import url("swiper/css/navigation");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background-color: rgb(var(--bg-color, 33 36 37) / 100%);
+  color: #FCFCFC;
+  font-family: var(--font), 'Inter', Montserrat, -apple-system, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  overflow: hidden;
+  caret-color: rgb(var(--primary-color) / 100%);
+  @apply text-[14px] sm:text-[15px] uw:text-[16px];
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent
+}
+
+::selection {
+  background-color: rgb(var(--primary-color) / 0.9);
+  color: #000000;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  --tw-bg-opacity: 1;
+  background-color: #212425;
+  background-color: rgb(33 36 37/var(--tw-bg-opacity))
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  --tw-border-opacity: 1;
+  border: 2px solid #212425;
+  border-color: rgb(33 36 37/var(--tw-border-opacity));
+  --tw-bg-opacity: 1;
+  background-color: rgb(var(--primary-color) / 100%);
+  background-color: rgb(var(--primary-color, 255 255 255) / 100%);
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:has(> button) {
+  text-decoration: none !important;
+}
+
+.container {
+  @apply max-w-[1140px] uw:max-w-[1180px] mx-auto px-4;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.list-shadow {
+  position: relative;
+}
+.list-shadow::after,
+.list-shadow::before {
+  @apply from-background to-transparent block opacity-100 h-full w-[10%] max-w-[50px] absolute top-0 bottom-0 z-10 pointer-events-none transition-opacity;
+  content: '';
+}
+.list-shadow::before {
+  @apply bg-gradient-to-r left-0;
+}
+.list-shadow::after {
+  @apply bg-gradient-to-l right-0;
+}
+
+.icon {
+  pointer-events: none;
+}
+
+@keyframes pulsar {
+  0% {
+    transform: scale(1);
+    opacity: 0.7;
+  }
+  50% {
+    transform: scale(1.12);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.7;
+  }
+}

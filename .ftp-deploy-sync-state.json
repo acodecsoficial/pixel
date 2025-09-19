@@ -1,0 +1,3009 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1755737762893,
+    "data": [
+        {
+            "type": "file",
+            "name": "README.md",
+            "size": 1614,
+            "hash": "3e943a3a1f72fe50f0d9069aed73a8ff1ec607659a73930e9b3314885e30e1d1"
+        },
+        {
+            "type": "folder",
+            "name": "app"
+        },
+        {
+            "type": "file",
+            "name": "artisan",
+            "size": 350,
+            "hash": "e313db8b935d646e728aef4402df1dd5345760268139449f13e98d9a294a9d97"
+        },
+        {
+            "type": "folder",
+            "name": "bootstrap"
+        },
+        {
+            "type": "folder",
+            "name": "client"
+        },
+        {
+            "type": "file",
+            "name": "components.d.ts",
+            "size": 4271,
+            "hash": "ae547b73551ffaba17d315a6fb2db4887b9adbeac3602b5f3f603304002d78c1"
+        },
+        {
+            "type": "file",
+            "name": "composer.json",
+            "size": 2148,
+            "hash": "4d3628604413a1a9a9d3f50860a88057d155e38bd9fc5ef2ff7e33f6963c5dc5"
+        },
+        {
+            "type": "file",
+            "name": "composer.lock",
+            "size": 316127,
+            "hash": "6f4a89eb24b724ed0a1daf54147fda65a09fd7d9413fadc63e99e90e6e382e04"
+        },
+        {
+            "type": "folder",
+            "name": "config"
+        },
+        {
+            "type": "folder",
+            "name": "database"
+        },
+        {
+            "type": "folder",
+            "name": "lang"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 1272,
+            "hash": "bf38420784c0c8f48308ceac802c2ecd39a77be51e032fb39231bafc7b32774f"
+        },
+        {
+            "type": "file",
+            "name": "phpunit.xml",
+            "size": 1191,
+            "hash": "e232db04f03301e1a45a4d7e2ef8309e61d116965a7babaa4a952ceac8dd4fce"
+        },
+        {
+            "type": "file",
+            "name": "postcss.config.js",
+            "size": 80,
+            "hash": "190c877db466995bf1482f4a16abd06e04a89ede3119341e2a86ff96e1737b27"
+        },
+        {
+            "type": "folder",
+            "name": "public"
+        },
+        {
+            "type": "folder",
+            "name": "resources"
+        },
+        {
+            "type": "folder",
+            "name": "routes"
+        },
+        {
+            "type": "folder",
+            "name": "storage"
+        },
+        {
+            "type": "file",
+            "name": "tailwind.config.js",
+            "size": 847,
+            "hash": "0cfa7d0bf453c6e26e2917df4dc087c92e67eb63dfa76ac6a56879a27aef7961"
+        },
+        {
+            "type": "folder",
+            "name": "tests"
+        },
+        {
+            "type": "file",
+            "name": "tsconfig.json",
+            "size": 512,
+            "hash": "339ddf889b723a475b4cdb9a105263ca6934ba5f2ba630859c261af6469215aa"
+        },
+        {
+            "type": "file",
+            "name": "vite.config.ts",
+            "size": 907,
+            "hash": "104ce183bc06257d1ec3877a14ad36c69b1608bd80a76b455a91c6132bde5426"
+        },
+        {
+            "type": "folder",
+            "name": "app/Console"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http"
+        },
+        {
+            "type": "folder",
+            "name": "app/Mail"
+        },
+        {
+            "type": "folder",
+            "name": "app/Models"
+        },
+        {
+            "type": "folder",
+            "name": "app/Providers"
+        },
+        {
+            "type": "folder",
+            "name": "app/Traits"
+        },
+        {
+            "type": "file",
+            "name": "app/helpers.php",
+            "size": 1410,
+            "hash": "e8869da29df6cef00545aae5d815a8d25700987715b18ddbce4b2c7745590eb8"
+        },
+        {
+            "type": "file",
+            "name": "bootstrap/app.php",
+            "size": 1427,
+            "hash": "2fa6fb63a4f65f8d7b0a5cce50a3b73232e65f9e205ac81bca08cba3df7710a1"
+        },
+        {
+            "type": "folder",
+            "name": "bootstrap/cache"
+        },
+        {
+            "type": "file",
+            "name": "bootstrap/providers.php",
+            "size": 64,
+            "hash": "2ef405f988a6ef3f5222bfbdd89352a6ad7b2e9e21aa25e236ac5dff58358953"
+        },
+        {
+            "type": "file",
+            "name": "client/App.vue",
+            "size": 1249,
+            "hash": "bfbc54cebab0a93e5e60755d89265347dc00075f99c3448f0fcab1f2e888e1c0"
+        },
+        {
+            "type": "folder",
+            "name": "client/assets"
+        },
+        {
+            "type": "folder",
+            "name": "client/components"
+        },
+        {
+            "type": "file",
+            "name": "client/countries.json",
+            "size": 41886,
+            "hash": "4f4172e72a599c3c1ec7dc28870ec3fca1afaa233bbe1a461f2573cfffcc9b2e"
+        },
+        {
+            "type": "folder",
+            "name": "client/helpers"
+        },
+        {
+            "type": "file",
+            "name": "client/global.css",
+            "size": 2225,
+            "hash": "20aaf204ecefc4f8d60ea46553d7905e84940cb4fd5bb0fdd0db13499ac8498c"
+        },
+        {
+            "type": "file",
+            "name": "client/interfaces.d.ts",
+            "size": 3720,
+            "hash": "34e88667fa5dd48096dc349b1a8cc0f225d89d56c70c181a524ae75432e668fe"
+        },
+        {
+            "type": "file",
+            "name": "client/main.ts",
+            "size": 2807,
+            "hash": "060b2aabefb3f37594359be802173b3d1a62cea8c23bcf7db951cafce16b5f6d"
+        },
+        {
+            "type": "folder",
+            "name": "client/pages"
+        },
+        {
+            "type": "file",
+            "name": "client/pnpm-lock.yaml",
+            "size": 91918,
+            "hash": "e2775bc4d7bdf3237dbb02d8335c13090e077fa4e3e6dfafdd3c10f42520eba4"
+        },
+        {
+            "type": "folder",
+            "name": "client/services"
+        },
+        {
+            "type": "folder",
+            "name": "client/store"
+        },
+        {
+            "type": "file",
+            "name": "client/types.d.ts",
+            "size": 261,
+            "hash": "bfbd8a0af0d2cba01f4c7699bb45814e2edf508793efd4e649b89a6e29c97307"
+        },
+        {
+            "type": "file",
+            "name": "config/app.php",
+            "size": 4211,
+            "hash": "bcd92057de55270acd3c4ce40a03db81109dcc06411b21b406c3ee77c8e577c0"
+        },
+        {
+            "type": "file",
+            "name": "config/auth.php",
+            "size": 4029,
+            "hash": "d5bd78db15ec31df30248bb56dff53d385d7826d9ab0cfb2846dc6ce06d531c0"
+        },
+        {
+            "type": "file",
+            "name": "config/cache.php",
+            "size": 3400,
+            "hash": "9c9feeb1efc59f16570dc38c2e22f3ba8ace68a796440df5cfdeb581d9c9ab89"
+        },
+        {
+            "type": "file",
+            "name": "config/database.php",
+            "size": 6091,
+            "hash": "4f3274dc6a385e9eada24cb22e8f6febc9dacb6b79457422d65c9799161bc5dd"
+        },
+        {
+            "type": "file",
+            "name": "config/filesystems.php",
+            "size": 2370,
+            "hash": "4a841e2bd7f5144e9c650f5c2700a4302fe9959c0815b64164058f6c3994a4be"
+        },
+        {
+            "type": "file",
+            "name": "config/logging.php",
+            "size": 4310,
+            "hash": "6e0885a09b96f9e3e9ccfae9e536da3c33dbd53a7710a518c05ac0f2b6808fb8"
+        },
+        {
+            "type": "file",
+            "name": "config/mail.php",
+            "size": 3555,
+            "hash": "a30ce2ea1121ece11e484dc26edbe923aaf41721d47abea70de8aff163eae36a"
+        },
+        {
+            "type": "file",
+            "name": "config/queue.php",
+            "size": 3824,
+            "hash": "a185a3e86b65db26938204f4f50cf0c0ca99974e9926b9cdcef6b7743feea482"
+        },
+        {
+            "type": "file",
+            "name": "config/sanctum.php",
+            "size": 2994,
+            "hash": "a3bf731d55289ab9f9c0500ec01b949a12cab6eba3f763adb4eb223ee335aedb"
+        },
+        {
+            "type": "file",
+            "name": "config/services.php",
+            "size": 1232,
+            "hash": "384a571ac53439cd5640bf793ea24fd9011344b08dace01fa4633a582696bbf1"
+        },
+        {
+            "type": "file",
+            "name": "config/session.php",
+            "size": 7856,
+            "hash": "6031bfd26b0c5f9933ccf061a10f2e4a49505ac237ff4dc6dc3832278d1703a9"
+        },
+        {
+            "type": "folder",
+            "name": "database/factories"
+        },
+        {
+            "type": "folder",
+            "name": "database/migrations"
+        },
+        {
+            "type": "folder",
+            "name": "database/seeders"
+        },
+        {
+            "type": "folder",
+            "name": "lang/en"
+        },
+        {
+            "type": "folder",
+            "name": "lang/es"
+        },
+        {
+            "type": "folder",
+            "name": "lang/hi"
+        },
+        {
+            "type": "folder",
+            "name": "lang/ko"
+        },
+        {
+            "type": "folder",
+            "name": "lang/mn"
+        },
+        {
+            "type": "folder",
+            "name": "lang/pt_BR"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets"
+        },
+        {
+            "type": "file",
+            "name": "public/.htaccess",
+            "size": 603,
+            "hash": "42493ebc7bad9b95a90363cae9d46ca9934f2d5b4177088d7a08371d5a2623c7"
+        },
+        {
+            "type": "folder",
+            "name": "public/build"
+        },
+        {
+            "type": "file",
+            "name": "public/favicon.ico",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "public/index.php",
+            "size": 468,
+            "hash": "8e8554cc123b541ff4abb247fb40fc93aa42877376c1296f3cf8106350c52e8b"
+        },
+        {
+            "type": "file",
+            "name": "public/robots.txt",
+            "size": 24,
+            "hash": "e5c4b84484ee4216e9373be99380320c25dd94805f99f0a805846f087636553f"
+        },
+        {
+            "type": "folder",
+            "name": "public/sidebar-icons"
+        },
+        {
+            "type": "folder",
+            "name": "resources/css"
+        },
+        {
+            "type": "folder",
+            "name": "resources/js"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views"
+        },
+        {
+            "type": "file",
+            "name": "routes/api.php",
+            "size": 2445,
+            "hash": "5a98a04693c023e3ed001e765783643a0cb170b9898249e87a3a3a3989130b89"
+        },
+        {
+            "type": "file",
+            "name": "routes/console.php",
+            "size": 220,
+            "hash": "7bff1ca9501485339d5fddb7777e2a5f4144787b9cb1af9cf61c269f38d1752d"
+        },
+        {
+            "type": "file",
+            "name": "routes/web.php",
+            "size": 3856,
+            "hash": "1f20fe50e84f9cb1de870be5f6fe7bd7a5da0124c126e745d9a9fd7c7d7a71dc"
+        },
+        {
+            "type": "folder",
+            "name": "storage/app"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework"
+        },
+        {
+            "type": "folder",
+            "name": "storage/logs"
+        },
+        {
+            "type": "folder",
+            "name": "tests/Feature"
+        },
+        {
+            "type": "file",
+            "name": "tests/TestCase.php",
+            "size": 142,
+            "hash": "c7c209f5579c42647c1f7b2a79ac828e8b54ac62a98442045a6e94fa2c0d0ebc"
+        },
+        {
+            "type": "folder",
+            "name": "tests/Unit"
+        },
+        {
+            "type": "folder",
+            "name": "app/Console/Commands"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/.DS_Store",
+            "size": 6148,
+            "hash": "4dfd108d3f9ce3b9d67c0713bfcd068733b86a4f9834bc653c476e006992b12a"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http/Controllers"
+        },
+        {
+            "type": "folder",
+            "name": "app/Http/Middleware"
+        },
+        {
+            "type": "file",
+            "name": "app/Mail/DepositMail.php",
+            "size": 1263,
+            "hash": "0cad54e5740581204a8a17fc415e15a021bd436dcaf2d3a837267a2e6fbcd378"
+        },
+        {
+            "type": "file",
+            "name": "app/Mail/MakeQRMail.php",
+            "size": 1005,
+            "hash": "4a0607678b4bd306a459f6d7bed44f60c66d07be8535d18456b533755a434f8e"
+        },
+        {
+            "type": "file",
+            "name": "app/Mail/PaymentMail.php",
+            "size": 1005,
+            "hash": "fac8bbfabc60b464c0ad17d39ae9ba7f0059c7a5ac528b24c342c5252f9f1901"
+        },
+        {
+            "type": "file",
+            "name": "app/Mail/RegisterMail.php",
+            "size": 1185,
+            "hash": "2c6cf0f167ca24d8a467fc4c3dd355ad1121e8343cd6e3d572e3cf2e26388dfc"
+        },
+        {
+            "type": "file",
+            "name": "app/Mail/ResetPasswordMail.php",
+            "size": 1186,
+            "hash": "1bb53fb2c5f88c7aaddb5bb7d2c6e91706d17ec388832e058b6ab3fe5e37ac8c"
+        },
+        {
+            "type": "file",
+            "name": "app/Mail/WithdrawMail.php",
+            "size": 1258,
+            "hash": "644c38893bda25eb4de87a236178d7c5a40c94959873b85afc9307c7fefd704a"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/AffiliateApproval.php",
+            "size": 391,
+            "hash": "518b80d50cfb1e850fcc943ba33b030b38dbf5fc20b0ba0d2b3f705c75e1c5b3"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/AffiliateTransaction.php",
+            "size": 488,
+            "hash": "3f3cdfb06bc10ddd8c25648fc1403da724e62c980fa18d1315d8a8a78270354a"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Banner.php",
+            "size": 524,
+            "hash": "a3954d3d762932d9d25aa018c50452396fbc634ff2e94c28ca62021e6b85608b"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/BetRiskLog.php",
+            "size": 346,
+            "hash": "3d024b353123687ca3898b5d180b83f248824d09adc1d5d79bfe1b192b55064f"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Category.php",
+            "size": 721,
+            "hash": "1b26d2d20cab29a5b6503a48a68bab0e9f18e7c3e6df91abba966d84859761d0"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Config.php",
+            "size": 319,
+            "hash": "4d626c1377f9a3bc1484c022d6e297c1e2abca336b0384d1bda6143bd576e419"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/GameProvider.php",
+            "size": 399,
+            "hash": "0634d09d2f0cdf7e412b349387366b91cabdda9ca25cc55fe59b13554bc3e70b"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/GameHistory.php",
+            "size": 492,
+            "hash": "74f2fd7c886f8558206bd333b7a88c93f5fabf4c06293e7d1ce4a1f42a83239f"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/GameToken.php",
+            "size": 356,
+            "hash": "1678e3aa00e33e631cffd2cbbf9c62335d235cbe13e223df04f93e7a02143598"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/GamesApi.php",
+            "size": 590,
+            "hash": "1f3a0c22a5dd9e81a780f7feb5f8f667c599b93dc1318df132e70716cc7d55bf"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Gateway.php",
+            "size": 429,
+            "hash": "89a588beefdeb6ba676ace756ce604626536c3985591204a004a1af46e1b9e4a"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/PaymentHistory.php",
+            "size": 466,
+            "hash": "b40a4a33c63531ecff5640960003dffe2c30f597dcca02c3b97aaed9306f33c2"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/SidebarLink.php",
+            "size": 223,
+            "hash": "fa8f9e1aa454ba935decc03d57b950821c24c8acc133b9cd55c304021696d59f"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/SmtpCredential.php",
+            "size": 315,
+            "hash": "43ab5ef0dc4b61784482776252cc193560374581338b7cf6fee0bc7f529f14dc"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/SocialUrl.php",
+            "size": 414,
+            "hash": "3bbeef0c67e428a9e21b458fc9a828d049d25ebc9b126cb2af9aa4560a1d18e3"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/TltTransactions.php",
+            "size": 740,
+            "hash": "c45b0152cf7bb304e5ca651c1fa546326dffe8f0526ddede438d0038a9a79503"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/User.php",
+            "size": 3439,
+            "hash": "012fd3bfafef740b2fdacf2cfec5f4197fcb587b0afc272ad838c2a0bbafb98c"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/WalletChange.php",
+            "size": 563,
+            "hash": "63317be0c9817b6ebc90f600ab91f4669b45b3af07bca183e99534b9dad49f33"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Webhook.php",
+            "size": 369,
+            "hash": "b1ca0e5be2f9d3d5ca093ad15688c4cceee4a6b41221b60b7ab4e90023d0e07a"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/Withdraw.php",
+            "size": 462,
+            "hash": "6a0a2710f16789f97feafbf69dc3e3d8a2548b42bd5f329580ffa1650958fbf9"
+        },
+        {
+            "type": "file",
+            "name": "app/Models/WithdrawAffiliate.php",
+            "size": 337,
+            "hash": "2ba8d258c29882d40678a2a7c6d581baf7b4495e712884287901b9c0225f89af"
+        },
+        {
+            "type": "file",
+            "name": "app/Providers/AppServiceProvider.php",
+            "size": 361,
+            "hash": "caf306ef6a25a547bbb7edd5508a39b51c365083eb6dd58378cf2242018e94c7"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/.DS_Store",
+            "size": 6148,
+            "hash": "6a2899e751edeabd4168b2f3d58b53a2d27c77a0e0909442e10b73367694b489"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/AffiliateRewards.php",
+            "size": 6439,
+            "hash": "4af2c1cc097c8b54d2a53f4367dcb441a133e101bfd56151bfb1b7de6c03f25d"
+        },
+        {
+            "type": "folder",
+            "name": "app/Traits/Gateways"
+        },
+        {
+            "type": "folder",
+            "name": "app/Traits/Providers"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/RolloverSum.php",
+            "size": 479,
+            "hash": "4c7e4d1ce252329bc43c3e01eff48b53d29fe6db4fb06eb1bc880a411aa0f3dd"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/SendMail.php",
+            "size": 1716,
+            "hash": "1a30a062ef1edb33cf319c6c3f4fcf529122665f868203985f033f053d11aaf4"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/SendWebhook.php",
+            "size": 5085,
+            "hash": "b75aba564234eda8c49ae658a3fbb9f910d4048c28532a1cb4f3ed5004d9a38b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/fav-icon.png",
+            "size": 65005,
+            "hash": "4b2ed989742485d8cee69f63811d4d87013e1f6d7b6634a8b5b2f13fbaf8967a"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/gcgaming.webp",
+            "size": 9248,
+            "hash": "05e34944bbd9214e99da3586ab42d28f97b464700d422bd4d98d92f5e7f38333"
+        },
+        {
+            "type": "folder",
+            "name": "client/assets/icons"
+        },
+        {
+            "type": "folder",
+            "name": "client/assets/images"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/pixzinho-logotipo.png",
+            "size": 72461,
+            "hash": "4ca154abe3ee286d83b5bcc710d82d8d7cd8668c9169078f44223b6215e50720"
+        },
+        {
+            "type": "folder",
+            "name": "client/assets/seals"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/xgaming.webp",
+            "size": 6674,
+            "hash": "75eb94b7c2995012bd9c231ccf36cabd7a64c64bab9505ffec4a1914722e7aa6"
+        },
+        {
+            "type": "file",
+            "name": "client/components/AccountDropdown.vue",
+            "size": 11415,
+            "hash": "ffed4dc4aaff24d0f70c40931c7590db5a71e2fa57af4f8ff86b9d8d2875844e"
+        },
+        {
+            "type": "file",
+            "name": "client/components/BackToTop.vue",
+            "size": 991,
+            "hash": "9c2d1c27803b87d22a956d371184e457e83910defce9cf9d2904f1a87473f8f4"
+        },
+        {
+            "type": "file",
+            "name": "client/components/BottomNavigation.vue",
+            "size": 5334,
+            "hash": "f9ea3f95aa8204abf07327949292a8c1b8f2b29c2645377fc8f5c4fbd31e4c29"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Button.vue",
+            "size": 827,
+            "hash": "30cc2f52f3b8a38905db86f4e005300d0719819de004ad31a0f761f8fde8842d"
+        },
+        {
+            "type": "file",
+            "name": "client/components/ChangeLangSelect.vue",
+            "size": 2328,
+            "hash": "652504d8ebeb9cb3c7fef06336b8404726e80f869254fc2218aa168f0b308ea2"
+        },
+        {
+            "type": "file",
+            "name": "client/components/CircularProgress.vue",
+            "size": 1403,
+            "hash": "46c677e66342381e3a5a7834c7eb4ae791efc558b2cd5df21732df84ddc1ebf7"
+        },
+        {
+            "type": "file",
+            "name": "client/components/DepositForm.vue",
+            "size": 15655,
+            "hash": "93d21c522f16e638c7a63fe2f97c913c1bc1890155369002a80570b80be08900"
+        },
+        {
+            "type": "file",
+            "name": "client/components/DepositQRCodeScreen.vue",
+            "size": 4167,
+            "hash": "c86cd391301401699845aabdace5ace467730e64af9a345fa752f774cc579473"
+        },
+        {
+            "type": "file",
+            "name": "client/components/DepositSuccessScreen.vue",
+            "size": 1314,
+            "hash": "3078dbe64113b25c0be859be8d17ee36ec71685f8c1dab218776a2a29a8065ff"
+        },
+        {
+            "type": "file",
+            "name": "client/components/ExternalLink.vue",
+            "size": 906,
+            "hash": "8af0f24c9efe868e6da8c91160ba9f4667f7e1fd971b6551b21bc9dba9e7d4cc"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Footer.vue",
+            "size": 8343,
+            "hash": "4b0b5211893b44c9898ac07aaff79d6fdb6068113cfc4081130cef7688253462"
+        },
+        {
+            "type": "file",
+            "name": "client/components/GameListItem.vue",
+            "size": 1980,
+            "hash": "f384673dc4210d4eaf6b85d5b8c10bd932a3ef3fe95158011d47ae516e007522"
+        },
+        {
+            "type": "file",
+            "name": "client/components/GameListSection.vue",
+            "size": 4360,
+            "hash": "2510de966e5a0474b974d7a5575e8975b062676fa454c262368789d7ab9e5952"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Header.vue",
+            "size": 12454,
+            "hash": "6b1a181d8d3b9bf1073b0f5ffec9b923597d4fda84028f4e99af43be71d4246d"
+        },
+        {
+            "type": "file",
+            "name": "client/components/HeaderMobile.vue",
+            "size": 1348,
+            "hash": "988a2a56835c6f84c4d920341922cedd4074dbb55fde2f38e19f275fd0b2a978"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Hero.vue",
+            "size": 1732,
+            "hash": "8fe4dfc937b5bd648ccd212256acd589ec0d0f6b831f9c9ba9b34d1d2f52323a"
+        },
+        {
+            "type": "file",
+            "name": "client/components/HomeLinks.vue",
+            "size": 2271,
+            "hash": "461124555be8ab81b774de5914f78d7101351029cc7c49093940dd47ebe7c1f1"
+        },
+        {
+            "type": "file",
+            "name": "client/components/HomeRecomendations.vue",
+            "size": 1301,
+            "hash": "922c18524c6f126b2e4ec04cf8911d4d25ea752c14df1117c828ba712ff985df"
+        },
+        {
+            "type": "file",
+            "name": "client/components/HomeSkeletonLoading.vue",
+            "size": 427,
+            "hash": "3f661ed216a6b9a43c65afcf113416a3cdb584f730eb22d987fb4a3ae65a49e7"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Input.vue",
+            "size": 1535,
+            "hash": "832c34356acb8a88e71246e8334029509bcd03a1c1f8c074b559acfb21bc3f54"
+        },
+        {
+            "type": "file",
+            "name": "client/components/LevelCard.vue",
+            "size": 788,
+            "hash": "3675ed202a1511d328105b27a37d4cca55f11f53ac9b2f781ff4e2adb616475d"
+        },
+        {
+            "type": "file",
+            "name": "client/components/LoadingScreen.vue",
+            "size": 362,
+            "hash": "660b836776b4e14e06f212f9573fa8130c3a0336c6adfe76ce3b06f4f91bd31c"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modal.vue",
+            "size": 1974,
+            "hash": "8d7264c9ced5156a9b69968eb251c51268e3fbf717cec1cd1a5ef22cd4edca5b"
+        },
+        {
+            "type": "folder",
+            "name": "client/components/Modals"
+        },
+        {
+            "type": "file",
+            "name": "client/components/ProvidersSection.vue",
+            "size": 2470,
+            "hash": "8537d628dc43e1d91dbb728d6830449337ee952808b6626fd907dc6a34163296"
+        },
+        {
+            "type": "file",
+            "name": "client/components/RequiresLogin.vue",
+            "size": 994,
+            "hash": "9c84bc624a417c0d94d22024df7e813019c572c94740a9cfc7afc78ff6fd891d"
+        },
+        {
+            "type": "file",
+            "name": "client/components/SearchBox.vue",
+            "size": 4196,
+            "hash": "746ce7b3d7a3abee04243e1ac555899fe0f847eae26b9c722dde7ec73740407e"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Sidebar.vue",
+            "size": 8942,
+            "hash": "29f1a4aee64a577d4b672b51d4b10ca06b22273c3b67c54f87752296ff86d50e"
+        },
+        {
+            "type": "file",
+            "name": "client/components/SidebarLink.vue",
+            "size": 623,
+            "hash": "3310405da2bda40ec7f1db363242351b4b0a5730c5641f8fab7a5f8d6bea077a"
+        },
+        {
+            "type": "file",
+            "name": "client/components/SidebarSection.vue",
+            "size": 1076,
+            "hash": "312c606a4f82adf3a6c19f64e032d623473297f7f428e02973a4287987adeee1"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Spinner.vue",
+            "size": 521,
+            "hash": "7aa9bccd7e6ac6a38bb97acc9f97065ec9616884699c9230b6e5982028623669"
+        },
+        {
+            "type": "file",
+            "name": "client/components/ToastNotification.vue",
+            "size": 2281,
+            "hash": "b3c7ede9f666836d788c0ba78f78d0c040019f684992b6dbc365083c7693cb46"
+        },
+        {
+            "type": "file",
+            "name": "client/components/TopGames.vue",
+            "size": 438,
+            "hash": "a44013a0d618af9245d2c14db24944308410510f15ed0479ef0cc9ac06e224a0"
+        },
+        {
+            "type": "file",
+            "name": "client/components/TopMessage.vue",
+            "size": 1175,
+            "hash": "b3f37777d22599917b367d9e025a159008af2657a6e967f0736a9dad86dbf5e9"
+        },
+        {
+            "type": "file",
+            "name": "client/components/TopWinners.vue",
+            "size": 2317,
+            "hash": "d4fd1a51392a2dff8aa829080acd7d59de812a6e9a63eca0d0cc84ecb74b2ab5"
+        },
+        {
+            "type": "file",
+            "name": "client/components/WalletBalanceCard.vue",
+            "size": 1196,
+            "hash": "88941f45a6fe85f1fa619f6717179ef6dfcd23fa7fc4b5273e8b410e619efaa8"
+        },
+        {
+            "type": "file",
+            "name": "client/components/WalletDepositsTable.vue",
+            "size": 3638,
+            "hash": "27172b6e8b50a34b61d148beb88490c5894aff74b0d33e372715747bcaae8bf1"
+        },
+        {
+            "type": "file",
+            "name": "client/components/WalletWithdrawsTable.vue",
+            "size": 4226,
+            "hash": "793b79a898d2e6873010597bbe155bf3e30563e17fa4e8ccf8602e0a57e9a105"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/capitilize.ts",
+            "size": 367,
+            "hash": "00cf12dee314137af725fec491cff4ae21d246e05ab998b6be88e06b8f682b23"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/classnames.ts",
+            "size": 357,
+            "hash": "d23634f0d630d46942e32061d3adf81b8e879dc07a1dd83a0e4e7e5e70ac5904"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/constants.ts",
+            "size": 355,
+            "hash": "7f01985f13fb49df2e20d68a39168cdd4af24d76b4bc144724d9678646a69d03"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/copyToClipboard.ts",
+            "size": 1778,
+            "hash": "f27d8e5476815541d8c1031e353f4924177b837647a9e269456ec34d8d6077b5"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/debounce.ts",
+            "size": 376,
+            "hash": "96a69f1c9f1333a7c32afc0a27986b7153d2409ed93ee418112a60112b83b930"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/formatters.ts",
+            "size": 801,
+            "hash": "211484b2abefdaca178c9f90c580af2f14fea362ab72070086d4725cdf1b1852"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/hexToRGB.ts",
+            "size": 1066,
+            "hash": "ed2cf625f28d09f0c9bbf4daf0433e448f3588cffab1aa660814ad7c07faab38"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/imgBaseUrl.ts",
+            "size": 234,
+            "hash": "b036e91de714e6241c86a6fde6322ba50fb8f5b1bc302abe46e69b194d28466c"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/slugfy.ts",
+            "size": 635,
+            "hash": "bdb539a2f3529f5c373b7767dfe1a9c7347ce0170a2b3359f7d919fa157cb4a7"
+        },
+        {
+            "type": "file",
+            "name": "client/helpers/validations.ts",
+            "size": 1215,
+            "hash": "73df9179c3007310110bf315ab8763c9a8a5bd8a5a1927b0b18febfd0c329443"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/404.vue",
+            "size": 409,
+            "hash": "869b65de3eaa8327d842ca2da7a9f64bed2b406cada2ddd83eb119889b2c8d24"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/Home.vue",
+            "size": 1695,
+            "hash": "8cda27efc32c2b21c4f0632fd754e266c73bbcff7fd136d98c1baeb2891f712b"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/Sports.vue",
+            "size": 2137,
+            "hash": "f0e794707c8c9954a57aee29377857d0115167e9b8b6629bb8fb470c6d8cd37f"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/Terms.vue",
+            "size": 63999,
+            "hash": "849e96a8a6068d0ff835ae71d978c8398f7625c5bd3659154c3c9e463dc06cd7"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/aml-policy.vue",
+            "size": 23413,
+            "hash": "97452d1ea64d99221a79c6229c1732ff1446bc3339812d5badf15368cc843276"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/betting-terms.vue",
+            "size": 10201,
+            "hash": "e6cf6885672a71fe820b2b1b933d5aafc40195c73ba387c18ef009fabc339dc5"
+        },
+        {
+            "type": "folder",
+            "name": "client/pages/casino"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/privacy.vue",
+            "size": 6134,
+            "hash": "febe4a9c44503dcbbae06d791d3efd7798f659a7041b7e92578b54cfffd8d5b9"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/responsible-gaming.vue",
+            "size": 6754,
+            "hash": "3ebd80a8e7bdd99a675db1959f90209889caf69c96a02b1b9eab3c1fb887e7c9"
+        },
+        {
+            "type": "folder",
+            "name": "client/pages/user"
+        },
+        {
+            "type": "file",
+            "name": "client/services/api.ts",
+            "size": 704,
+            "hash": "197188e81f18645c269d1fccf5f662e61648bb77589aecac8d787d546a70ec61"
+        },
+        {
+            "type": "file",
+            "name": "client/store/auth.ts",
+            "size": 1908,
+            "hash": "f9cf83b1b2907c76e43fc4a1b6fb11b93d26ccd8a2bedb1f063657400abe65f9"
+        },
+        {
+            "type": "file",
+            "name": "client/store/global.ts",
+            "size": 2877,
+            "hash": "43cc74a026a8d603709cadf83f3c278c2e11398aee08a1c46e7a7c7993f131ce"
+        },
+        {
+            "type": "file",
+            "name": "client/store/modals.ts",
+            "size": 1586,
+            "hash": "27d4b9d6d2a360d8c73c2d5f17c820df18d9f4b85174d983611913186f53b82c"
+        },
+        {
+            "type": "file",
+            "name": "database/factories/UserFactory.php",
+            "size": 1075,
+            "hash": "05c4cfa8e4dc7ebe659c66717b30ea6970f62d732a1bbce32b55650cccc6aa8d"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/ 0001_01_01_000000_initial_database.php",
+            "size": 723,
+            "hash": "c7ddea1da0474781b729243f17e246f898a6bf17d4e8c5579d9d19c191c911e3"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/0001_01_01_000000_initial_database.php",
+            "size": 723,
+            "hash": "c7ddea1da0474781b729243f17e246f898a6bf17d4e8c5579d9d19c191c911e3"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_12_150841_add_cpa_chance_in_config_and_user.php",
+            "size": 655,
+            "hash": "846332c0bc7f6f84ebd0c0a358514ec4906e11c148db04e6594fd9cbf0240d05"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_12_151443_add_rev_fake_config_and_users.php",
+            "size": 664,
+            "hash": "e1bd91323dacac377a52d28e02f4d3a8d8799493ac77947b136948d1a1baaa8d"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_13_044228_create_affiliate_transactions_table.php",
+            "size": 1033,
+            "hash": "0cde2159c960a40186dcdc26ae8b889825bd4ef322fcb3ed7169471bcb36aba1"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_14_150207_add_affiliate_approval_table.php",
+            "size": 830,
+            "hash": "598f3dabae214bb17bb1525b6d67cd3e169431c18c31e14778b45fe898fe95e4"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_14_161619_add_affiliate_in_table_users.php",
+            "size": 616,
+            "hash": "749331f8c54409426402288991a4ae1855e14fd2ae1c0aca1798088cc0818a24"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_15_102348_create_cache_table.php",
+            "size": 849,
+            "hash": "20f769d3c11748c1cc42c41cd3789b0b9b2cd0db44ee22d378addac3ff8aed4f"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_15_121446_add_game_id_to_games_table.php",
+            "size": 1091,
+            "hash": "d4d28bca5dec8b9fb05e3b14d9fc933d8eb287a581e11ce1782341a758948ac4"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_16_201410_add_config_affiliateauto.php",
+            "size": 628,
+            "hash": "bd66185df76059b654a9000f6b651d67ae102c8c6ae964a3d4be7177abf99bd1"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_18_220600_add_sub_refer_in_users_and_config.php",
+            "size": 921,
+            "hash": "f92da2ccb514fc66dbd0be25ac1bcdefcb7c18069e0cf9091f42eb49fe19e515"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_07_26_171217_add_sidebar_links_table.php",
+            "size": 5353,
+            "hash": "22023ac1ea8bf5d117f3d48b1cb0277dbe10a3df8c88f18f8b6e6160751d66cb"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_08_212417_add_config_tenant_id.php",
+            "size": 661,
+            "hash": "6cf2443ddec5cb605b5fe53c4e8182576ccf062aeaa310a97f356badece02aef"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_08_230206_update_webhook_table.php",
+            "size": 1567,
+            "hash": "1ad23c766259b87ab95ba71527d569c88ce4396cc9762b21e89cff9aa489b0c3"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_09_002951_manage_risk_in_config.php",
+            "size": 922,
+            "hash": "9d0447f1440599ad97b185a12bda0d3352bb9a27d97e72ebd1d3e6f1835e4626"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_09_162752_add_scripts_to_config_table.php",
+            "size": 594,
+            "hash": "ef86975209a22386cc645319e92d6a45cca4b903db33e8f349c22e8966dec7e1"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_09_170226_create_bet_risk_logs_table.php",
+            "size": 740,
+            "hash": "bcca114122b16ade5b491ec8cf863d51a28ea2e315fba5f1b31dd7393ef862f4"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_14_154545_add_colors_to_config_table.php",
+            "size": 927,
+            "hash": "0b65c6511ddceda6dc50a9a6e9b3e11eb97f2369cd898fce8884faf0bd85cf54"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_16_165442_add_auditory_table.php",
+            "size": 868,
+            "hash": "bd58d6f1fefb3d3deb89715e835bdaac3f9ce885dce83c5c1779f854c3beee6d"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_16_202801_add_buttons_to_sidebar_links_table.php",
+            "size": 816,
+            "hash": "6e7cfdd1ac14085ac82df01323a8d5de74112b3aa1e3b4f33e02a295265220e3"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_20_183110_set_all_users_name_to_null.php",
+            "size": 714,
+            "hash": "b66370bc280e60e8e57b4af278bcd63cff16d2ef47d20c721ec28bd8f83ad32e"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_08_21_161631_add_avatar_to_users_table.php",
+            "size": 611,
+            "hash": "5c1bad4facea8b4b5cc097315f32bfc55acac4a29fe0b7cc0438c0e845439385"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_09_19_191600_add_new_columns_for_manage.php",
+            "size": 1120,
+            "hash": "d0f2c60bff9112f43d5e70a54dd385c11235df6aef630ee2c892b4c0e8725e2e"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_09_19_200608_change_default_in_config.php",
+            "size": 840,
+            "hash": "87945196ea4a01d2b71ca6c5bf249a75d20341f3bf3726be82db2ba5c68d9ab9"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_09_24_193018_create_exports_table.php",
+            "size": 1092,
+            "hash": "f5a7c1abb7ac49b3c0e891bad47c358be1c3286bce0ff26a8bd6c026c5c12e16"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_09_26_154259_create_job_batches_table.php",
+            "size": 951,
+            "hash": "a01bd7ba5c4a18d6bcb6cc120697ea7c6bb175df3aeb74005411796993035848"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2024_10_02_155408_alter_notifications_table.php",
+            "size": 773,
+            "hash": "55dc3182b156c88f59da32658fa3da34b50b310e28c13102039982199ac5f575"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2025_01_21_193443_add_columns_in_config_table.php",
+            "size": 635,
+            "hash": "5d324e5d2b0e2b9df2526e5e3e33fcdf572edefce6d6cd87df60ef2e41724fc1"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2025_05_29_060800_add_fields_to_users_table.php",
+            "size": 597,
+            "hash": "e360b2f25aab8d60d71a9dfc05adb362942a6b1479050dd1b79c7ecb56c78e3c"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2025_05_29_064033_create_tagusers_table.php",
+            "size": 516,
+            "hash": "74d59b168773f597fb205634accdb5dbcb29db9ea2cf1640b0e6b37d2a8d2af7"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2025_05_29_064515_create_notes_table.php",
+            "size": 760,
+            "hash": "cf2354851d17d22b4d560cf4706b364af1b75d8392c3a07941adce2737413df9"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2025_06_03_142358_add_field_tag_user.php",
+            "size": 597,
+            "hash": "f36dbc7ce9219cb36e3d4bd0247da90f4419e6f6968ab41bf2b95577bdd443a4"
+        },
+        {
+            "type": "file",
+            "name": "database/migrations/2025_06_04_053958_add_columns_to_webhooks_table.php",
+            "size": 869,
+            "hash": "570a16a46947f1a4e4ac6ff8f52ad6da9d099d527fa407a6330778d41f19f94d"
+        },
+        {
+            "type": "file",
+            "name": "database/seeders/Databaseseeder.php",
+            "size": 366,
+            "hash": "d6348a9519d8f01260f7ebc5ae0e70e0fe6fb6c47289cef22b6050c4ab6bcbd9"
+        },
+        {
+            "type": "file",
+            "name": "database/seeders/initial_database_structure.sql",
+            "size": 60646,
+            "hash": "3ba335b2ac154b399eb3d0a5f455819e5bbd17723f1346a3d91ca214d3232dd2"
+        },
+        {
+            "type": "file",
+            "name": "lang/en/auth.php",
+            "size": 674,
+            "hash": "029823d4e0f2a8cce3b9ccb90e3eacdb4c9f28947ba59a5525bd39c14c869716"
+        },
+        {
+            "type": "file",
+            "name": "lang/en/back.php",
+            "size": 1954,
+            "hash": "5aa0d995bce6d68cc8258de0bbc8210b01c6e2045670b774ebfe2fcdcbf47118"
+        },
+        {
+            "type": "file",
+            "name": "lang/en/front.php",
+            "size": 10101,
+            "hash": "115a673914d2aefb88b79b80d472cba0ec3a4abe5a38917d74e0c50d814d6b6f"
+        },
+        {
+            "type": "file",
+            "name": "lang/en/pagination.php",
+            "size": 534,
+            "hash": "5c9bed6d2c965666d0c8b9f17f93f87cbfc7a240ead19b3b061764e8238e219f"
+        },
+        {
+            "type": "file",
+            "name": "lang/en/passwords.php",
+            "size": 744,
+            "hash": "adc7b6b72a144e9a5321a66c365192c54b85502de96af9c6b629a78fc8c0d3b4"
+        },
+        {
+            "type": "file",
+            "name": "lang/en/validation.php",
+            "size": 11449,
+            "hash": "0a8befd48b146b8691519cef05910c91ccb4576c8d8f5ab30cc3c7e8fcb890c0"
+        },
+        {
+            "type": "file",
+            "name": "lang/es/auth.php",
+            "size": 675,
+            "hash": "7dd97ba1cbd3f0ba5bf057a28058155fffb9e34f98476916c54d3106890f3866"
+        },
+        {
+            "type": "file",
+            "name": "lang/es/back.php",
+            "size": 2015,
+            "hash": "b82cb430ae672943ac3779d6638e4905c9f264e5e3dfb1c714771ccfa9c81b75"
+        },
+        {
+            "type": "file",
+            "name": "lang/es/front.php",
+            "size": 10830,
+            "hash": "a30beb973970a48d2adb0b0b88a80ee363cb4eb97c51bc2c5daccd8d29af464f"
+        },
+        {
+            "type": "file",
+            "name": "lang/es/pagination.php",
+            "size": 539,
+            "hash": "c7e92327be2c063467d5c955d45e4bd836e1dc674b0e86917b0a54cf7785bb5e"
+        },
+        {
+            "type": "file",
+            "name": "lang/es/passwords.php",
+            "size": 909,
+            "hash": "501517cfbef4885b13230d541bf7d2eba494703290fbdb50e9a4e00ba8f4af52"
+        },
+        {
+            "type": "file",
+            "name": "lang/es/validation.php",
+            "size": 6738,
+            "hash": "7ca3791229b4e26d94f93d10bb3db571aadef2664d32e07701539e9d3b202d15"
+        },
+        {
+            "type": "file",
+            "name": "lang/hi/auth.php",
+            "size": 850,
+            "hash": "a6556f70552ab05c647d75b38620fc2a508253f2b40ae57f42871b24132f8e80"
+        },
+        {
+            "type": "file",
+            "name": "lang/hi/back.php",
+            "size": 3650,
+            "hash": "5e93db2de230e93790d4ef67995db02baced5796a8cc10a50665751e6b7827db"
+        },
+        {
+            "type": "file",
+            "name": "lang/hi/front.php",
+            "size": 17540,
+            "hash": "a5de134dce5cdd872d80fa8772e7202978f621bf91f0a6fd581f10cd5d82bdc0"
+        },
+        {
+            "type": "file",
+            "name": "lang/hi/pagination.php",
+            "size": 549,
+            "hash": "c4d650b808a6ab9b871cae90878ccb8fc4601eccac4961f80ae52ffe207b3772"
+        },
+        {
+            "type": "file",
+            "name": "lang/hi/passwords.php",
+            "size": 1176,
+            "hash": "46144db0c55eb356933700c5058ec1ac6e66439f36549062b7c7cc2909b10bb4"
+        },
+        {
+            "type": "file",
+            "name": "lang/hi/validation.php",
+            "size": 9612,
+            "hash": "530a87b2a1b0df6c6c3c0bc29a594165ff9682baac1183730dfbb4cdce58814c"
+        },
+        {
+            "type": "file",
+            "name": "lang/ko/auth.php",
+            "size": 673,
+            "hash": "c8666b9114cf4d12adb011465df14b95e6c74b5e6ea46834b7dcf9c631542a13"
+        },
+        {
+            "type": "file",
+            "name": "lang/ko/back.php",
+            "size": 2234,
+            "hash": "8e43c3b6bcb534554f8e8da183537a41bf45fbe69ed00d24d9d609c68ec4a016"
+        },
+        {
+            "type": "file",
+            "name": "lang/ko/front.php",
+            "size": 11311,
+            "hash": "954d96ed4e97f61e2d2c9879da79f9750fe748df00fa3709de0ff6f3e9482df1"
+        },
+        {
+            "type": "file",
+            "name": "lang/ko/pagination.php",
+            "size": 537,
+            "hash": "a116e8147d3dbad3174ec1190dd28d20a9cdc8a4dca3b5f73dca963ebba0873d"
+        },
+        {
+            "type": "file",
+            "name": "lang/ko/passwords.php",
+            "size": 892,
+            "hash": "6d1873c17ac2b53d1f2cc8542c81967e1f05ac9d0d4956875b7f21f8488a49ab"
+        },
+        {
+            "type": "file",
+            "name": "lang/ko/validation.php",
+            "size": 7165,
+            "hash": "22138372a1f7bfe2d6a186f5d7cda7af6b56998f4f22be7bbd1a227a6242acf9"
+        },
+        {
+            "type": "file",
+            "name": "lang/mn/auth.php",
+            "size": 779,
+            "hash": "fcd215d18e52eb8fd20c8534a844e94d264ce437cc133eb0ab3c9dbfd883844c"
+        },
+        {
+            "type": "file",
+            "name": "lang/mn/back.php",
+            "size": 2943,
+            "hash": "a56e3caa37df6138e85837aaa947ae4067368fb493b14b976fd61dfd9ce8d97e"
+        },
+        {
+            "type": "file",
+            "name": "lang/mn/front.php",
+            "size": 14441,
+            "hash": "a13eb224885b1b0c31ae3d5f34868d32856a6bb1bd32dc9f55acb632dc02f70b"
+        },
+        {
+            "type": "file",
+            "name": "lang/mn/pagination.php",
+            "size": 550,
+            "hash": "67590071313c27ce2e5a967853332c6c332ed2dce8ceb6bababa803295df6b99"
+        },
+        {
+            "type": "file",
+            "name": "lang/mn/passwords.php",
+            "size": 1048,
+            "hash": "949f838b9ccae829fa2b299c303f2efea9a202c6ecdbc9da4484b35372839449"
+        },
+        {
+            "type": "file",
+            "name": "lang/mn/validation.php",
+            "size": 8244,
+            "hash": "f64e50e0114de4d23e28f854e5d9ce8f0b772f97fe95d564ec8d3ba1a3b6f0cc"
+        },
+        {
+            "type": "file",
+            "name": "lang/pt_BR/auth.php",
+            "size": 668,
+            "hash": "c6b3d265d80fc4041e0f6f847955b44d768f71f67d7aed15e055342b79df138f"
+        },
+        {
+            "type": "file",
+            "name": "lang/pt_BR/back.php",
+            "size": 1975,
+            "hash": "45bffbaefb54c181998c66294cc6d5d0eec87ef2f7cbcc2d6a960d8c498fe600"
+        },
+        {
+            "type": "file",
+            "name": "lang/pt_BR/front.php",
+            "size": 10413,
+            "hash": "22293cbd2f674f5e040c976a41f23f8ebc9a5f34ff8c4d3b5d2dd912d91d94b2"
+        },
+        {
+            "type": "file",
+            "name": "lang/pt_BR/pagination.php",
+            "size": 538,
+            "hash": "33525a6e5253aa75ccd95e1c988fdb0191e53a692fd46aad96c58bca64a824c0"
+        },
+        {
+            "type": "file",
+            "name": "lang/pt_BR/passwords.php",
+            "size": 842,
+            "hash": "e6f6f02d25ee77a296e1699039078464b1f86983f5b66a6ebbc455dbdc49b048"
+        },
+        {
+            "type": "file",
+            "name": "lang/pt_BR/validation.php",
+            "size": 6650,
+            "hash": "2d202b2bd7b352c0e6b8b451c8416be6341b52a2803ed6f735c15e2effb3f31f"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/img"
+        },
+        {
+            "type": "folder",
+            "name": "public/build/assets"
+        },
+        {
+            "type": "file",
+            "name": "public/build/manifest.json",
+            "size": 7080,
+            "hash": "ca2952d58250abaf01c4f3d864497fbd8d4a693177d3cbd775178cfa81caba58"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/american-football.svg",
+            "size": 634,
+            "hash": "1c4edc68ba528b50a17fd7480e8b467ff9c142b30034fd4ab24a0028bba3e7c4"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/ball.svg",
+            "size": 1387,
+            "hash": "d373c41bbdf5e1781d4cf10da7aee89479ad12aa5025ccf5881e7220ee1b002d"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/balls.svg",
+            "size": 1909,
+            "hash": "11f4a9f7e42d2a3091470a73d4a9c6268199f45910b64e41465a69778be85c31"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/basketball.svg",
+            "size": 806,
+            "hash": "c8c89db5b6992e37b9b0c3c52607f969d1b3340153a65163f92ad9fde2dfd62b"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/beisebol.svg",
+            "size": 575,
+            "hash": "8af91b04cb256f4b2505f08b3c49189e914ee1d638d8d57bd4795383a98a07d0"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/bell.svg",
+            "size": 689,
+            "hash": "87651ea8358dccf5c766906f4706bc71963f6e04495b71ffadee48b789cc7cb6"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/bomb.svg",
+            "size": 789,
+            "hash": "c7ee9e89a41070f35cfc84e5617a1b2efd0d914f3fa3f1971987ea35e89b6f82"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/bowling.svg",
+            "size": 437,
+            "hash": "15a98eae3afba99471be0dcc0142b7d89d38cace3ef01ada45ae092106a5f134"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/box.svg",
+            "size": 956,
+            "hash": "fac137068eda3949f3cd0a4e7e26a6731a8a26c3764a2458454b382c531d5e5f"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/card.svg",
+            "size": 1269,
+            "hash": "a6e79a0df66c840a404816b420e29809eaaf48b743c610937f05ef90e7714cb5"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/chat.svg",
+            "size": 579,
+            "hash": "27d7fffc8c38dbc35a16cfbbf1d4e29373d8847abda1beeeb62af405f63a21b4"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/crown.svg",
+            "size": 2306,
+            "hash": "9de01141d709d0f9a604340bb8fd54e9b067c581dc6242103c80a5933079c9de"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/crystal-ball.svg",
+            "size": 2183,
+            "hash": "38dc4917061cefc57b8bf2fd55f2818f8c1cfefbb26826664c736d8e28cc16d8"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/deck.svg",
+            "size": 1353,
+            "hash": "419f57471c825df33bc8db1f4ed4a28684370b260e436bab12ae6f8d0051ffe4"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/dices.svg",
+            "size": 1828,
+            "hash": "ed8f06aebb3ec91dc6ccdfc9d3013c8c6cab1e6c81fe37904885e6f383f2044b"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/download.svg",
+            "size": 758,
+            "hash": "8cbba25941248ad8e5a16601568d508c9412b6be7d606dc1564e8ca67781ce61"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/fighter-plane.svg",
+            "size": 1287,
+            "hash": "8c6b2dec8633453722d2009cc4b23af964bf77e6996b5bfbdbf8624c35d3baa6"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/gamer-control.svg",
+            "size": 1336,
+            "hash": "c5e20901ac2ff23fe917d5a778de2d72a8ddf595e98ca0237a331767a9eb7c51"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/gift.svg",
+            "size": 982,
+            "hash": "7ae5bc6a41a588c9ef20fee1e6e4113afa90f497ec083eb7525e30488a6e1efe"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/head-phone.svg",
+            "size": 2272,
+            "hash": "108239ccd104e52b973c84c96628967c4a67f97c0189911dc64194e284e02bd0"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/joystick.svg",
+            "size": 664,
+            "hash": "d145838a6ddc100f1307e7774f1275fa50b54507b77673cb77205e9e24535388"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/link.svg",
+            "size": 656,
+            "hash": "bddd82fce70b652bb4f29ee07133017202b7c069f0b5de88f1ab0e83000b86ce"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/megaphone.svg",
+            "size": 529,
+            "hash": "dd41586b99aaa45517a66f8cfce6e3b672d83ddc706dc44f5466f42545e8a8ea"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/money-bag.svg",
+            "size": 3127,
+            "hash": "56ce0469540f0a22578f2cb9c9915c0d03a09838ed9d7c9157cdcc335b0ebade"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/motorcycle.svg",
+            "size": 3170,
+            "hash": "2bf010e69dc019156488ba19547d612ed718288f361f1ccaa63d47f9a02c2f6d"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/ninja.svg",
+            "size": 1970,
+            "hash": "b8daf95a974e16c1df060bc65b581ee32b9f91b9c9543399a0a7efd02929e4cf"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/paw.svg",
+            "size": 1195,
+            "hash": "94ff0dfcc02d0880c867dfc59e73076a1e9fc86efa91d622c69f75f0f5fa2788"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/plane.svg",
+            "size": 705,
+            "hash": "af7c6a953eaa3fcc55f227863e6f41aceec191148be1db85a0e5926865474ae1"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/rocket.svg",
+            "size": 924,
+            "hash": "2574dd4df2aba97e915a682e69a4fa0068167ad976a7136582362e76816d8794"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/roulette.svg",
+            "size": 1782,
+            "hash": "953ef6cc142313453b5294c6f6aa9b7ac3e3255bdd576f98135b3e66bb79e085"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/smartphone.svg",
+            "size": 639,
+            "hash": "19ae46bb3274044957ed15a3e9f352fc9fa40af6704f01df3971c9ae131a1186"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/target-arrow.svg",
+            "size": 1324,
+            "hash": "88296c2bc319d6815172c39dd45445d7f93896b1fcad421765f8ddbcd2847530"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/target.svg",
+            "size": 781,
+            "hash": "c46fa9b22c87fe2bbeac5b46e1d2cab72734b67e99e5c5725eeaede430967a45"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/tennis.svg",
+            "size": 692,
+            "hash": "c171af3448249b3b0ee315059eec7e3124fc2f2d59ecb1a80fda09f7ccd6c669"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/thunder.svg",
+            "size": 477,
+            "hash": "685c650eb1346aa15ac8d960a6956324df59cdd97d720a50e3b2368d84e81bb0"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/timer.svg",
+            "size": 720,
+            "hash": "a46607806d4691fe2d09f2c38c5f8622799daa2b8c6c464c4d5a46bcf0a2f59e"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/trophy.svg",
+            "size": 695,
+            "hash": "a0cd27cb00d7cbaccdfe2105d6847b0a9c051efc792028b1febf5d722617a957"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/video.svg",
+            "size": 1031,
+            "hash": "1fbed4c6bec9825e80270c4773f4cacac351116dd08820e4e7a13e58ad557dc7"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/volley-ball.svg",
+            "size": 570,
+            "hash": "4ff943c024579a9fe49611e882e84ff780504934fbbc86f42b25d932cdbadaf3"
+        },
+        {
+            "type": "file",
+            "name": "public/sidebar-icons/wand.svg",
+            "size": 1541,
+            "hash": "dd23b970d0fd4926f83b01df4699efb061d805a6b6563c2b9aaf0dba2c223904"
+        },
+        {
+            "type": "file",
+            "name": "resources/css/app.css",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "resources/js/app.js",
+            "size": 22,
+            "hash": "cf6dab196c721f6911ff99cc4f910897f978599a2d289971a316a5fc33091f94"
+        },
+        {
+            "type": "file",
+            "name": "resources/js/bootstrap.js",
+            "size": 127,
+            "hash": "6fd9fc82e68fa915a882f4e227b9faacbe7bfd66cb953c628840e83bda6b72f4"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/app.blade.php",
+            "size": 5507,
+            "hash": "cf5cec780ddcc1bd9de929656f377d53d32483ff12cddc6dadcbe52e9f16a0fa"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/auth"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/emails"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/errors"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/welcome.blade.php",
+            "size": 36003,
+            "hash": "1291bed6400f0b5f9bc1c4905d0cae3dba6fcfc56aa2c08f883de5ee18ec44f6"
+        },
+        {
+            "type": "folder",
+            "name": "storage/app/public"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/cache"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/sessions"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/testing"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/views"
+        },
+        {
+            "type": "file",
+            "name": "tests/Feature/ExampleTest.php",
+            "size": 359,
+            "hash": "aaa4a192fb4aa96d4e81eda06a29968da3d9a73b71026b87a67297e66dd985b8"
+        },
+        {
+            "type": "file",
+            "name": "tests/Unit/ExampleTest.php",
+            "size": 243,
+            "hash": "ffacae5c1a2a44c809420af5b3b404910da1b12167d58764dac6d10b8ba8cfaf"
+        },
+        {
+            "type": "file",
+            "name": "app/Console/Commands/TestCitrexpayWithdrawCommand.php",
+            "size": 2619,
+            "hash": "8d1091b4fc18c0a9c3226def4d8ad331df880837d3691655d97fa6daf2195d88"
+        },
+        {
+            "type": "file",
+            "name": "app/Console/Commands/TestEmailSendCommand.php",
+            "size": 1676,
+            "hash": "686a8658d87c5195b4eeb192ef8257ecd279e00a21a5dd1b1522d296f49af935"
+        },
+        {
+            "type": "file",
+            "name": "app/Console/Commands/TestGatewayCommand.php",
+            "size": 2526,
+            "hash": "6d591b605f2627ec518ecea37a81db298fcbad175f711a56e5637425a1289c5b"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/AuthController.php",
+            "size": 7808,
+            "hash": "c31b15795e4f1c668b4fa0e55b29043c122f7c18b88ace4a5c987c16e8f5a94e"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/BlueOceanController.php",
+            "size": 4398,
+            "hash": "c83c8d0a6185403b75e2e1cf526b22301403ece03c2eda582722a291a1e853ba"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/CasinoController.php",
+            "size": 8355,
+            "hash": "8795d110a3a8cb2f7802cd44c5946049ebb8504760ebd806431b082db8f0e97e"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/Controller.php",
+            "size": 77,
+            "hash": "25d1c1ef8e6cc8a376553faacfba2b07d9dfaee9bdbb84f14f77517580e9deb1"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/CouponController.php",
+            "size": 701,
+            "hash": "b06109f551ce80317e001c3920fbf729bf66fa5226a951e43969996196569d2c"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/ElloController.php",
+            "size": 6758,
+            "hash": "5b3eabf2016be13ad7df201e23f86ce5db9e59683cf980053c48b45941b638b8"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/ExternalApiController.php",
+            "size": 4189,
+            "hash": "5a67c9a18ba309a0bed36ee9dc8d85149ef9694372aa2f9b8c46b7efd270cfc8"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/FiversController.php",
+            "size": 4369,
+            "hash": "6c328d3e01f52ccdb6aa99dc757fec6bc9f74ac3229ebda4c813fdafbe010a99"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/GatewayController.php",
+            "size": 3355,
+            "hash": "4b694a1dc5fbe7974d26df4198eb537f187dbab88dc7b947c843710ea1511298"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/HypertechController.php",
+            "size": 3865,
+            "hash": "8c345e3a0d1a7c052a6bd7ec881e439776182301b299d46be9636255d915a53d"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/SiteController.php",
+            "size": 5382,
+            "hash": "35b6353f052360bf82d9278de02e36b5946bc37a785f40c9a7c2399b82f049bf"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/SportController.php",
+            "size": 4871,
+            "hash": "2a850237994ec33f62411c2bdfd6e2fb2cd27a957fae694730558b7b02865e7c"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/TltController.php",
+            "size": 8175,
+            "hash": "643c48efa3b443262aae79f3fb0283fc4abb1deca790324e09c81c5166623cbb"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/UserController.php",
+            "size": 2934,
+            "hash": "165b15ebb09148b06fd16fcbc2dd49ccbe1ff234a2593965f6345289877b602e"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/WebhookController.php",
+            "size": 17467,
+            "hash": "22a5ba25a2a5ebd652a6146a0b6b721f66169ff6fbe15ad9845b361ba916582d"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/WithdrawController.php",
+            "size": 9211,
+            "hash": "4dfd32117cd2d350a9ba4ed18f49755620d30746274c97fcc31cd87a564c9ff1"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Controllers/XGamingController.php",
+            "size": 9366,
+            "hash": "0b4e613adf30021376a5a616ea56a53e376f586cc306f77b5bbb0c3bce9caa5e"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Middleware/BannedMiddleware.php",
+            "size": 560,
+            "hash": "db35582d013389c0d4cadc925aeba53a633b34539aa05abb175b1ed4d4c36158"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Middleware/LanguageMiddleware.php",
+            "size": 658,
+            "hash": "1f81370bb4059e67385a6bdd59df321e0dfd5adf7036d54c647382220f7cfef4"
+        },
+        {
+            "type": "file",
+            "name": "app/Http/Middleware/TltMiddleware.php",
+            "size": 1648,
+            "hash": "3f402f62438aa5da124cf676f2a1c38a6a5de212605da4e06f8e3b1f18ae3ace"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Gateways/BspayApi.php",
+            "size": 6735,
+            "hash": "6d2959383fcf325b7b5fa63276d15b1fb3e5abbd9b9284b214ac64898bddfac6"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Gateways/CheckCoupon.php",
+            "size": 1727,
+            "hash": "68dd410a959827139aee64eb7fac0f98d5d85ce547bac616cdec7824c072573b"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Gateways/CitrexpayApi.php",
+            "size": 6557,
+            "hash": "e02520899d221135b1ab970bff378d4090729f296ea5204d4a6802759febb7b0"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Gateways/EzzebankApi.php",
+            "size": 6294,
+            "hash": "0dd18b8321d13f926ec9f89070898ceb24f8a3af9474831d9c5b4e08e516b5ce"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Gateways/PixupApi.php",
+            "size": 6744,
+            "hash": "802495d26129383725515df2682c38aa2f2d368290adf46284664eb675a1805d"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Gateways/PrimepagApi.php",
+            "size": 6055,
+            "hash": "f7e48cbf48f5a00664a610f226fe56f95d14de3d02bfd6f7437647901a5d0630"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Gateways/SuitpayApi.php",
+            "size": 3533,
+            "hash": "ad9aedaa4319677f38ee22c4bc5cc97656d8e991f44436a0a9fd02900003d870"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Providers/ElloProvider.php",
+            "size": 1044,
+            "hash": "f5642fb92278577bc90405b8c28cbc1390fc5dce123c1d773201ef9d8e4134f6"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Providers/FiversProvider.php",
+            "size": 1347,
+            "hash": "1f91f07b51690fbb6d4a93bc66226dc795336b8db6600ad957c814db2d2fe17f"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Providers/HypetechProvider.php",
+            "size": 1093,
+            "hash": "ca38b9663495d552a911b9f670b4df7169b7d513ece4d68bc716e9b250cc0b53"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Providers/TLTProvider.php",
+            "size": 1447,
+            "hash": "d0bb28e90015800b17a1332f2b8267aca5177a4106ace845988965143b37b2b4"
+        },
+        {
+            "type": "file",
+            "name": "app/Traits/Providers/XGamingProvider.php",
+            "size": 1515,
+            "hash": "722b68b3a704ef45af107796330200d641e1668cc8bed6e3cf1f93c9c2c24fd4"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/account.svg",
+            "size": 1630,
+            "hash": "2bdc3f13994a7cdda271847345b2b370dcec504d03221d2dab302a24ba6aaa66"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/afiliado.svg",
+            "size": 2911,
+            "hash": "200da9636ff6843e87c2de46bb04c719aa46ba2cfde75451b3e8ec2c208d7bf3"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/aviador.svg",
+            "size": 705,
+            "hash": "af7c6a953eaa3fcc55f227863e6f41aceec191148be1db85a0e5926865474ae1"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/bac-bo.svg",
+            "size": 1828,
+            "hash": "ed8f06aebb3ec91dc6ccdfc9d3013c8c6cab1e6c81fe37904885e6f383f2044b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/baccarat.svg",
+            "size": 1269,
+            "hash": "a6e79a0df66c840a404816b420e29809eaaf48b743c610937f05ef90e7714cb5"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/back.svg",
+            "size": 345,
+            "hash": "be271278c9f4705e47752a2abaffa3f73cdf04b9589a82ae78675d383996677a"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/boxing.svg",
+            "size": 727,
+            "hash": "196e2bfe85937e9de491699bcad4aedd052aea3c2fc556a17027657af5455045"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/cash-mania.svg",
+            "size": 1541,
+            "hash": "dd23b970d0fd4926f83b01df4699efb061d805a6b6563c2b9aaf0dba2c223904"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/chat.svg",
+            "size": 554,
+            "hash": "0e5367ca34c01a854b15b7f1f4265d282ead5ee1aecff42512bd4b09bfbe96a0"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/check.svg",
+            "size": 205,
+            "hash": "5820866a83fb5718b23810054874c2eb285f045a1ddaece9dad32fedd38008fe"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/chevron-right.svg",
+            "size": 209,
+            "hash": "c16bf00afa007f3733e4c5bf227c4c1974b3d718fd92436dc9c80cb5c10470b9"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/clipboard-black.svg",
+            "size": 739,
+            "hash": "bac355b6cfa5b883b439e87e4fdcb9e846442d2c656a2714eb1b05a4bed9a107"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/clipboard.svg",
+            "size": 739,
+            "hash": "893e7a0a4a6354e80095fe6629fa63f77e4f1dce22ebc6bc7a459a302dab938a"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/clock.svg",
+            "size": 240,
+            "hash": "c7f69ffc3062211c4ba9012e29d48f7351313c325b741629600bdec4025ebd2a"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/close-black.svg",
+            "size": 422,
+            "hash": "6906187fffa4b5abb9694c0cac61204d4842e608aa29bf4d501dad44f040ddb0"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/close.svg",
+            "size": 385,
+            "hash": "2b1e99aff9579753fa52b22aec2397a133babc6b347c316adddd871f140fb3bd"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/crown.svg",
+            "size": 2325,
+            "hash": "14588493fc80f57f3be06be46a900cd0963b0fefe91f009996a04250074998a9"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/cursor-click.svg",
+            "size": 357,
+            "hash": "06781de688bb9445f942d47d682f113b8ec271d3692f5bf640e2627d4faa664c"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/deck.svg",
+            "size": 1353,
+            "hash": "419f57471c825df33bc8db1f4ed4a28684370b260e436bab12ae6f8d0051ffe4"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/dices.svg",
+            "size": 1828,
+            "hash": "ed8f06aebb3ec91dc6ccdfc9d3013c8c6cab1e6c81fe37904885e6f383f2044b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/document.svg",
+            "size": 605,
+            "hash": "90be89449e7871065a399d083bf75399868d223fcd824fddaf80189c9cacaf70"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/down.svg",
+            "size": 312,
+            "hash": "333c29425cb52fa0ad72290a8f3af41be0a97028480372790bf499f84aedd624"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/email.svg",
+            "size": 310,
+            "hash": "a203a7078279efc2a0598ff35ed5646d75557ea716bb5823d3141b2a31e5fde4"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/exclamation.svg",
+            "size": 386,
+            "hash": "31580f230d205a8a92892070d3a6b84ebe126f12bb8bc1ef6c45ac51f526b3b5"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/eye-closed.svg",
+            "size": 711,
+            "hash": "056cb9068aa631ed8950e77bd2cdb8503e0aff6f4ae23c324e116ad19fe39392"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/eye.svg",
+            "size": 447,
+            "hash": "1e26577ed67fcebd48ea3d115cfe5e3dc737ef8e756d7bab2a08729a6658627c"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/fire.svg",
+            "size": 383,
+            "hash": "51ab96b823aa9b97afb0bc87f71c06d4c5897c03920b2fa711b2a136a92edf37"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/fortune-dragon.svg",
+            "size": 1195,
+            "hash": "94ff0dfcc02d0880c867dfc59e73076a1e9fc86efa91d622c69f75f0f5fa2788"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/fortune-mouse.svg",
+            "size": 664,
+            "hash": "d145838a6ddc100f1307e7774f1275fa50b54507b77673cb77205e9e24535388"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/fortune-ox.svg",
+            "size": 708,
+            "hash": "f3b3f5fb59ba35eb679e1d69b8ac566e40ba395e49ee1a87b9856b11ce73569b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/fortune-rabbit.svg",
+            "size": 1287,
+            "hash": "8c6b2dec8633453722d2009cc4b23af964bf77e6996b5bfbdbf8624c35d3baa6"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/fortune-tiger.svg",
+            "size": 1195,
+            "hash": "94ff0dfcc02d0880c867dfc59e73076a1e9fc86efa91d622c69f75f0f5fa2788"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/fullscreen.svg",
+            "size": 651,
+            "hash": "03c98cdadff5dd0046a3034aff42e4f99d63b71b4fcb9b79129c1d164d11a67c"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/gift.svg",
+            "size": 683,
+            "hash": "a3c4ab96872f163f8adafbdfaafeca7a7663f0a6595327ed35d18a380bd4188b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/google-logo.svg",
+            "size": 904,
+            "hash": "da603e07b9b734eda796f83fe945704230195fa004e3cd5fcd0aa2f61a8fa7e5"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/hamburguer-menu.svg",
+            "size": 404,
+            "hash": "6a8235bed11bf10b3b25c64d9f1b9fbea7282817ead721da59098c5c9f7df647"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/help.svg",
+            "size": 1813,
+            "hash": "a738511d78cfcf3f97154beb9f2ef698a80a6981dda3c46e9bda262f0cd476a8"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/home.svg",
+            "size": 305,
+            "hash": "3ba57366368311e18f8a63ed50253fa6b9e839660faa0a2e58015995a93afe21"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/indique.svg",
+            "size": 3146,
+            "hash": "a861c13b875c68e225ce7be0f14ea4903ea0382edbf3b28dc6129aa53bff8bde"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/instagram.svg",
+            "size": 1066,
+            "hash": "84665c25144c6c5fd36522cc0d2ded918a813629a331b910c51aaf39e6f3b6c3"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/key.svg",
+            "size": 717,
+            "hash": "24070038437a14c31c5206235122cf8c5e19a7d2f6f888a6cefb1ab43d9faf37"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/lightningtable01.svg",
+            "size": 781,
+            "hash": "c46fa9b22c87fe2bbeac5b46e1d2cab72734b67e99e5c5725eeaede430967a45"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/loading.svg",
+            "size": 391,
+            "hash": "d52b9eef0ff5d5a105e07d294db72b4fe29a788e64cdc5d7ca0ba7442db4bb27"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/lock.svg",
+            "size": 575,
+            "hash": "40229d9abb0e53814e7e97c9442bb277a3c49040d765f4fd831a0fa927a65048"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/login.svg",
+            "size": 680,
+            "hash": "33226d7f207759999a5c8cbbb1d553f4e62118dbc52651e16bed37421d1642e7"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/logout.svg",
+            "size": 673,
+            "hash": "e39aae6f02266ead379933ca5dae52e168e245ee476e30a92c035a7ff9123562"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/minus.svg",
+            "size": 192,
+            "hash": "05975920cf9295e56922d944cdf37ea9a36872a84aafd545e150ef6bcafe656a"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/moto-grau.svg",
+            "size": 3170,
+            "hash": "2bf010e69dc019156488ba19547d612ed718288f361f1ccaa63d47f9a02c2f6d"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/ninja.svg",
+            "size": 2908,
+            "hash": "cd985a648d0f845dc2b2f32583a327781436c1271127f7bc6d4f4264f882bcdf"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/painel-afiliado.svg",
+            "size": 1298,
+            "hash": "e6fbddf53a68f209857170b380ce2d9a0a5243671d85068fa6ecd2e2d7d9dc50"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/pencil.svg",
+            "size": 352,
+            "hash": "698293c4f90989fd816f4ec45317831087d04ac2a2ff5860246cd7171a198adf"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/person.svg",
+            "size": 180,
+            "hash": "551d588c7b01f1f3556d480417ac0d40c792177d961dca32ec519883fcdd93bd"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/pix-icon.svg",
+            "size": 1114,
+            "hash": "7f9de7550bae5e28a29ebca83330d15333895cbab7678cc1f368728b07f1c967"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/pix.svg",
+            "size": 8022,
+            "hash": "9390c145caeb0284ad6bf44fe7b60c34b99b6eaa21594487f9c044872b4f2805"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/play.svg",
+            "size": 271,
+            "hash": "751d3317e436937c3d5c636da3aed1232cc06c7d351fd69315312d1fe832dbe7"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/plus.svg",
+            "size": 206,
+            "hash": "c12140ca733731772d91dc8f1ad0b6c38410280e6a4c7d2b5f8345511c0bb015"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/profile.svg",
+            "size": 704,
+            "hash": "5f04a11a4d224db5ba000000e79f5f566f34288921e6827f5c8d0fb1c8c4707b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/provedores.svg",
+            "size": 664,
+            "hash": "d145838a6ddc100f1307e7774f1275fa50b54507b77673cb77205e9e24535388"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/qrcode.svg",
+            "size": 922,
+            "hash": "d0fea311b3936e0cd8f9cbf0de70352a0558a2c36fd51a2eb559e708784438f8"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/reload.svg",
+            "size": 854,
+            "hash": "b57b597676335e83d24f5521ba232994c3c75080c0fd846d2b64735243d85572"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/search.svg",
+            "size": 526,
+            "hash": "6421893ad660692ef4d01e1224c03b63fe34a47e2bbd8cbfae9e6e0d43b9a084"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/share.svg",
+            "size": 755,
+            "hash": "01f9bad7296213e93aff3e0ed118748dd073c139ff78798d10f485c3c758b25a"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/slide-arrow.svg",
+            "size": 279,
+            "hash": "d6092995d76a8891a7803d54ddd725a677af4caff3b400b3b27df4cd73aa55a8"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/soccer-ball.svg",
+            "size": 1376,
+            "hash": "e772318db77d37af379e1ca28dbb9b0c46cfb7755fb09438e854a51d144da273"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/support.svg",
+            "size": 598,
+            "hash": "19a1e785ae0816b766d06ff35e102543826be5127493de91236f580f098c8e8b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/target.svg",
+            "size": 762,
+            "hash": "f0a2d22207fdf226ee5a47158a7c816048d036716d8cf1d07c8350ca05ad0836"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/telegram.svg",
+            "size": 846,
+            "hash": "0765b0107c1d6c9d0aa2b405355972a58ff024dcf7290c47e321eb13d8ddc779"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/up.svg",
+            "size": 339,
+            "hash": "354bba096cc3fdd7a4b13515368103c7a469fc131c77c88983b0d33d67179a61"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/video.svg",
+            "size": 1012,
+            "hash": "01771e803b82192b942fef96d4180bc025bcb00b52cf3eeb04d02cc727b4cd5c"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/wall-street.svg",
+            "size": 1031,
+            "hash": "1fbed4c6bec9825e80270c4773f4cacac351116dd08820e4e7a13e58ad557dc7"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/wallet-deposit.svg",
+            "size": 448,
+            "hash": "a5b1f402824eea936af1d96eeee0b863c90ae17b0d99382615fdffd1c34fc6bc"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/wallet-withdraw.svg",
+            "size": 464,
+            "hash": "e44d863724ec094c4e002d180b81b07b8d1fc8ea65f47b54ecdf7dad35a8afa7"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/wallet.svg",
+            "size": 622,
+            "hash": "a5867fb2e151382c328b7a1737c1ea3df51398ee8cbb71aefb004acb33b8e712"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/wild-ape.svg",
+            "size": 705,
+            "hash": "af7c6a953eaa3fcc55f227863e6f41aceec191148be1db85a0e5926865474ae1"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/icons/youtube.svg",
+            "size": 614,
+            "hash": "792bf98df19a58e53a4dec3e07a3423312224a84b693ade23b669808ca8c5dbe"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/404.png",
+            "size": 13606,
+            "hash": "b3245bec0fa31083af9b5c3ecaa419e715dd55bd9315576e3ec4da43ecbf1218"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/HYPETECH-logo.png",
+            "size": 17355,
+            "hash": "0331b243719e202e3269be0d8ed9c7605a584dbc4c085c048838553af097c90f"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/aprovacao-imediata.webp",
+            "size": 245292,
+            "hash": "352aa7e08be5405cd74df658557cdc05e222b27e78122b339a2b51a6cfff5068"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/auth.png",
+            "size": 100980,
+            "hash": "4781f4db4d454ef0209348c4b3973ba9f23acdf12ce394b09835ac56098ce191"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/evolution-logo.svg",
+            "size": 13201,
+            "hash": "33d13eb36711d30a69e7679e6867db128e793d4de3faa1bcb8c037c13dcfc757"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/ezugi-logo.webp",
+            "size": 1922,
+            "hash": "782bba7ef2d0373e596d0336a916878585547fe33be2b62a006cb24b3d23b37b"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/pgsoft-logo.svg",
+            "size": 8506,
+            "hash": "3e4e4f4a691cff3b5d76640437b7ec1beea74963269adeeb9cea6ebfbea928b7"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/pragmaticplay-logo.svg",
+            "size": 6217,
+            "hash": "8b0cd1983c31890641c0fedd4a52e609311eb80614401bc95673ecffc75742b1"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/spribe-logo.avif",
+            "size": 2191,
+            "hash": "73a8c1668fab8edc16c5020f872db709e8f17a63451b94b0157ffc2d62c717ba"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/images/trophy.webp",
+            "size": 28032,
+            "hash": "7af8cf649080dce5183568f8e6863a71664fc852c2eb6b39d892f8823474907f"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/seals/BeGambleAware.svg",
+            "size": 6321,
+            "hash": "135cb43309de329bfb33df45af49f9260961bf25021308c737fa0a2d34575a6a"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/seals/adult.svg",
+            "size": 2199,
+            "hash": "096914e9978c1226b085dbb0a6c9d0c3575d6dc7e314e20ffe8759bb6a3ea933"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/seals/gambling.png",
+            "size": 33321,
+            "hash": "c1db106ea0135d342de450ee3902ce2581b17f156c45008620bcf1cf553292f7"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/seals/gcgaming.webp",
+            "size": 9248,
+            "hash": "05e34944bbd9214e99da3586ab42d28f97b464700d422bd4d98d92f5e7f38333"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/seals/google_play.png",
+            "size": 3351,
+            "hash": "e18f849a98fc7dc1a890c5c22014e2b14d12e8bfa28a4749008f780a0c44b7dd"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/seals/gt_logo.png",
+            "size": 1726,
+            "hash": "593e5646ff5f92f155e6937f82cc264a76fa0a6e183de97d3769d34c51a38305"
+        },
+        {
+            "type": "file",
+            "name": "client/assets/seals/ssl.svg",
+            "size": 15735,
+            "hash": "e3b3e97a3f40e9b1001f685ffd4da15fc2dbdb03dc5cc182badee22352bb4da2"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/BonusRulesModal.vue",
+            "size": 3437,
+            "hash": "2b0b9ccc65d1f3d369c7af7452a5a777e659a900aedb8cef6e6d1871609e7bcf"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/ChangeAvatarModal.vue",
+            "size": 3512,
+            "hash": "ac454233edec675e2e0fbc4a572cac2db1f6f3c69aa7cd60f843bda170b1f9b2"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/DepositModal.vue",
+            "size": 2972,
+            "hash": "355fab22c1921698ed78e640e895c49becd8242d06918a1c7755814fddd1711e"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/ForgotPasswordModal.vue",
+            "size": 3022,
+            "hash": "f089a17499ce99751a4d4986f66444f61d3d614e22604a906c1337d9a3e14d03"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/LoginModal.vue",
+            "size": 5122,
+            "hash": "0ac02eac9470d7ebf478b44a0c155dcfbe7950f96e0a6d285a809bbeb588b22d"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/Modals.vue",
+            "size": 1054,
+            "hash": "88bf48aaf2a07438afc7ef265e63e840b5e76312b0736a5242317fd4a71406ed"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/RegisterModal.vue",
+            "size": 11458,
+            "hash": "37b0be1f23d6ae72b64fa76b8733412f6346ec291bb9cd1d4cd249a6e50c17a9"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/WithdrawModal.vue",
+            "size": 6646,
+            "hash": "ee1725f56a7ec6a123f9a66287af17ab544f0da5fc3b9a347822c2442dd2ca0e"
+        },
+        {
+            "type": "file",
+            "name": "client/components/Modals/WithdrawRulesModal.vue",
+            "size": 3147,
+            "hash": "181caa5ecbc050483a88354330196c0acfed5889e5274de7d8041d7dd9d9b7f5"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/casino/AllGames.vue",
+            "size": 2264,
+            "hash": "3abe13691c489b6a08529e2b9a228419a00bec854973935585b78200e943776c"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/casino/Category.vue",
+            "size": 1688,
+            "hash": "361bb06cb8be1e283362403ca984b9f05df9f3cdcdfd870625d8d84f4586506a"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/casino/Game.vue",
+            "size": 5674,
+            "hash": "b644137037b7addd1085adcd534363e32acca23814561c60c9f4d81f2be0a11b"
+        },
+        {
+            "type": "folder",
+            "name": "client/pages/user/Account"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/user/Refers.vue",
+            "size": 4689,
+            "hash": "2e22a751764776abed83bc88e7874e70bf07ee3022c8c3764ed21953e5f78237"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/user/Wallet.vue",
+            "size": 5564,
+            "hash": "43c765c5cf32de0fd2112450b677be4b4aeb321f74d03cfac5ec778a58ce776c"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/img/favicon"
+        },
+        {
+            "type": "folder",
+            "name": "public/assets/img/logotipo"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/404-CqOktY-i.png",
+            "size": 13606,
+            "hash": "b3245bec0fa31083af9b5c3ecaa419e715dd55bd9315576e3ec4da43ecbf1218"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/BeGambleAware-BHyTMRYe.svg",
+            "size": 6321,
+            "hash": "135cb43309de329bfb33df45af49f9260961bf25021308c737fa0a2d34575a6a"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/HYPETECH-logo-CMklVJR1.png",
+            "size": 17355,
+            "hash": "0331b243719e202e3269be0d8ed9c7605a584dbc4c085c048838553af097c90f"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/Inter-italic.var-DhD-tpjY.woff2",
+            "size": 245036,
+            "hash": "d1401419dc30587008d4d7fe1230ca068442635ef9b46538e515725d68e0791a"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/Inter-roman.var-C-r5W2Hj.woff2",
+            "size": 227180,
+            "hash": "17fe38ab302c7e5dbfb5c3d87801092d79be958500db6412ed3bc0f126bd53d3"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/adult-D4BVoram.svg",
+            "size": 2199,
+            "hash": "096914e9978c1226b085dbb0a6c9d0c3575d6dc7e314e20ffe8759bb6a3ea933"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/afiliado-KsGut0WK.svg",
+            "size": 2911,
+            "hash": "200da9636ff6843e87c2de46bb04c719aa46ba2cfde75451b3e8ec2c208d7bf3"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/aprovacao-imediata-xkj0HF02.webp",
+            "size": 245292,
+            "hash": "352aa7e08be5405cd74df658557cdc05e222b27e78122b339a2b51a6cfff5068"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/auth-Dvlg5Na8.png",
+            "size": 100980,
+            "hash": "4781f4db4d454ef0209348c4b3973ba9f23acdf12ce394b09835ac56098ce191"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/check-BYeViwWR.svg",
+            "size": 205,
+            "hash": "5820866a83fb5718b23810054874c2eb285f045a1ddaece9dad32fedd38008fe"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/clipboard-black-BVCXZRP6.svg",
+            "size": 739,
+            "hash": "bac355b6cfa5b883b439e87e4fdcb9e846442d2c656a2714eb1b05a4bed9a107"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/clock-nCIc5M31.svg",
+            "size": 240,
+            "hash": "c7f69ffc3062211c4ba9012e29d48f7351313c325b741629600bdec4025ebd2a"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/close-RnE3Lgqk.svg",
+            "size": 385,
+            "hash": "2b1e99aff9579753fa52b22aec2397a133babc6b347c316adddd871f140fb3bd"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/close-black-1aGCiLPk.svg",
+            "size": 422,
+            "hash": "6906187fffa4b5abb9694c0cac61204d4842e608aa29bf4d501dad44f040ddb0"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/cursor-click-DnLrkz_h.svg",
+            "size": 357,
+            "hash": "06781de688bb9445f942d47d682f113b8ec271d3692f5bf640e2627d4faa664c"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/evolution-logo-BZjo57Gu.svg",
+            "size": 13201,
+            "hash": "33d13eb36711d30a69e7679e6867db128e793d4de3faa1bcb8c037c13dcfc757"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/ezugi-logo-D1epVap1.webp",
+            "size": 1922,
+            "hash": "782bba7ef2d0373e596d0336a916878585547fe33be2b62a006cb24b3d23b37b"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/fullscreen-SWx_fqiL.svg",
+            "size": 651,
+            "hash": "03c98cdadff5dd0046a3034aff42e4f99d63b71b4fcb9b79129c1d164d11a67c"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/gambling-xo0x-H2k.png",
+            "size": 33321,
+            "hash": "c1db106ea0135d342de450ee3902ce2581b17f156c45008620bcf1cf553292f7"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/pgsoft-logo-dMyLEq5h.svg",
+            "size": 8506,
+            "hash": "3e4e4f4a691cff3b5d76640437b7ec1beea74963269adeeb9cea6ebfbea928b7"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/php_es-sANp8CnL.js",
+            "size": 19015,
+            "hash": "9f22cbb263116f4b41f9e817c85800cbb8722d96867c651c94ba99271cdc420e"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/php_hi-gt2YNDyX.js",
+            "size": 30686,
+            "hash": "7e88d36c97928419d14449b087df9acd18edc4721f0294d1997785e68e552830"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/php_ko-CJ0fbOER.js",
+            "size": 20121,
+            "hash": "bbc0ca0e3fcca398a8a97d26b970e6f8228dce91bc22b0d76bc0e7970613ab20"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/php_mn-BymWDN16.js",
+            "size": 25314,
+            "hash": "74ade35f44fda01d9e945eb386873df4ac5711b1ed5cafa0585d626a873989b8"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/php_pt_BR-DSh8jb1E.js",
+            "size": 18398,
+            "hash": "1b6ad278dd83e0544b3bf42e658aebf60187b5f68cf2f90075ecb8a06d65f657"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/pragmaticplay-logo-YCSjeBgA.svg",
+            "size": 6217,
+            "hash": "8b0cd1983c31890641c0fedd4a52e609311eb80614401bc95673ecffc75742b1"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/reload-CnBnJQQ6.svg",
+            "size": 854,
+            "hash": "b57b597676335e83d24f5521ba232994c3c75080c0fd846d2b64735243d85572"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/share-CH_PKTdI.svg",
+            "size": 755,
+            "hash": "01f9bad7296213e93aff3e0ed118748dd073c139ff78798d10f485c3c758b25a"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/spribe-logo-D6P3h_xm.avif",
+            "size": 2191,
+            "hash": "73a8c1668fab8edc16c5020f872db709e8f17a63451b94b0157ffc2d62c717ba"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/ssl-C8pTR8s1.svg",
+            "size": 15735,
+            "hash": "e3b3e97a3f40e9b1001f685ffd4da15fc2dbdb03dc5cc182badee22352bb4da2"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/support-DGkohBNA.svg",
+            "size": 598,
+            "hash": "19a1e785ae0816b766d06ff35e102543826be5127493de91236f580f098c8e8b"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/telegram-BjkiOCzL.svg",
+            "size": 846,
+            "hash": "0765b0107c1d6c9d0aa2b405355972a58ff024dcf7290c47e321eb13d8ddc779"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/trophy-k7kuguoC.webp",
+            "size": 28032,
+            "hash": "7af8cf649080dce5183568f8e6863a71664fc852c2eb6b39d892f8823474907f"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/wallet-deposit-DbdoSeJB.svg",
+            "size": 448,
+            "hash": "a5b1f402824eea936af1d96eeee0b863c90ae17b0d99382615fdffd1c34fc6bc"
+        },
+        {
+            "type": "file",
+            "name": "public/build/assets/wallet-withdraw-CDW8ZOhz.svg",
+            "size": 464,
+            "hash": "e44d863724ec094c4e002d180b81b07b8d1fc8ea65f47b54ecdf7dad35a8afa7"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/auth/password-reset.blade.php",
+            "size": 1472,
+            "hash": "af23160af1bab14ac4bc395e58fbfd8a0ee4eaefdcf4d22247cdd2c211f6a8a0"
+        },
+        {
+            "type": "folder",
+            "name": "resources/views/components/layouts"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/emails/deposit.blade.php",
+            "size": 1568,
+            "hash": "b3de7a32c3d341a9bfe04209412c9bc95f43154fe1e9ba0d526246427afb5cf4"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/emails/register.blade.php",
+            "size": 1980,
+            "hash": "96c6bf8674f72366b6876c09963a2a15074ba37298f85c59c16f888e4a386828"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/emails/reset-password.blade.php",
+            "size": 626,
+            "hash": "28fc313459d5fd43bdbac79fbd69ef5c077c7b7192cb46772c894fd0d650454b"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/emails/withdraw.blade.php",
+            "size": 1537,
+            "hash": "750460614f45513718fa053c9eb7db864d2f18dab5a9c62056cc8c8f4d8ecac9"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/errors/503.blade.php",
+            "size": 5170,
+            "hash": "39deefae577d552056b805409f3eb03a602bf72b0345ec254b7eb2e224a0d410"
+        },
+        {
+            "type": "folder",
+            "name": "storage/framework/cache/data"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/user/Account/Account.vue",
+            "size": 3419,
+            "hash": "943c602c6963c877c115280f662f01dc35199157bdb35c60d76cf165e88ecc4b"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/user/Account/ChangePassword.vue",
+            "size": 3993,
+            "hash": "c565e63e8ac323826edb4b271d90a56120b873a55e42d3f8677d3b60d346b57d"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/user/Account/ContactInfos.vue",
+            "size": 4769,
+            "hash": "be344ad14bb53d042c481e69bb2e437d692516c6f0819461fe590c40656747f9"
+        },
+        {
+            "type": "file",
+            "name": "client/pages/user/Account/PersonalInfos.vue",
+            "size": 4134,
+            "hash": "9b615c26fd5321b4ea6fcb627137dbc0b3085d78c748fa2f5cfd37720fb1e5f1"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/favicon/android-chrome-192x192.png",
+            "size": 23393,
+            "hash": "5fdb476b7889b165bb36e3b42991d68125a4b691260aa4c63738686a24dfbf67"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/favicon/android-chrome-512x512.png",
+            "size": 86241,
+            "hash": "e18813f9577583ecebacea59bcda9573b8f226d7577b748baef917e923609c75"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/favicon/apple-touch-icon.png",
+            "size": 20845,
+            "hash": "490c8d16864353d7dc2bbfc9dbd4f2b70d9fccab4b97b4cc0393895697d8bd97"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/favicon/favicon-16x16.png",
+            "size": 674,
+            "hash": "49760a34af001d1ed1c3ed0bbd202b3cd6d6b873b4c2bc9c715c94c40f1c2cbe"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/favicon/favicon-32x32.png",
+            "size": 1600,
+            "hash": "fb9795fd526d11ea41a7f3ec9cac99c27beef7b7c65918c301b85d3895d216d2"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/favicon/favicon.ico",
+            "size": 15406,
+            "hash": "fc843c5b82f35adab61177c3d7bd0f879e97736a96833081b1434c2fbdbef5f0"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/favicon/site.webmanifest",
+            "size": 263,
+            "hash": "7a9e07ce1f7386689917602ddc5a75750ad842e605ff764f67173529c181bf04"
+        },
+        {
+            "type": "file",
+            "name": "public/assets/img/logotipo/pixzinho-logotipo.png",
+            "size": 72461,
+            "hash": "4ca154abe3ee286d83b5bcc710d82d8d7cd8668c9169078f44223b6215e50720"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/auth.blade.php",
+            "size": 2537,
+            "hash": "e7f5e22feba4d3235513bdccfca92e1f8896673ebbeb8f24a7d5e3ac3e0106f2"
+        },
+        {
+            "type": "file",
+            "name": "resources/views/components/layouts/mail.blade.php",
+            "size": 885,
+            "hash": "2ba52b8ffd4beaf21a9706d208aabb5c6d1ff71983e2288f16ec0e1f9edab030"
+        }
+    ]
+}

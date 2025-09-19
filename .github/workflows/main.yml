@@ -1,0 +1,32 @@
+on:
+  push:
+    branches:
+      - main
+
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v4
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      with:
+        server: 147.93.188.36
+        username: ftp_pixzinho_com
+        password: ec0aed472de218
+        
+    - name: Run sshpass commands
+      uses: matheusvanzan/sshpass-action@v2
+      with:
+        host: 147.93.188.36
+        port: 22
+        user: root
+        pass: eMalH9F0utm5m2kn
+        run: |
+          cd /www/wwwroot/pixzinho.com/
+          npm install
+          npm run build

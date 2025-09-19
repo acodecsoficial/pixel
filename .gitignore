@@ -1,0 +1,11 @@
+# Keep environment variables out of version control
+.env
+/vendor
+/node_modules
+vendor
+node_modules
+package-lock.json
+composer.lock
+/public/build
+/public/hot
+hot
